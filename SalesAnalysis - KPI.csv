@@ -1,0 +1,11 @@
+Supply Chain KPIs,,
+,,
+SupplyChainKPIs1,,
+KPI,Value,Unit
+Total Order Lines,24195.0,count
+Total Orders,13467.0,count
+Line Fill Rate,65.93,%
+Volume Fill Rate,96.6,%
+On Time Delivery %,59.21,%
+In Full Delivery %,52.57,%
+On Time In Full %,28.69,%
